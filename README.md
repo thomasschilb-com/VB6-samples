@@ -1,6 +1,6 @@
 # VB6-samples
 
-<b>VISUAL BASIC 6.0 - SAMPLES</b>
+<b>VISUAL BASIC 6.0 - WORKING!</b>
 
 <b>tsCALC</b><br>
 NUMERIC CALCULATOR
