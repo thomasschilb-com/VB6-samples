@@ -2,20 +2,20 @@
 
 <b>VISUAL BASIC 6.0 - SAMPLES</b>
 
-<b>tsCALC</b>
+<b>tsCALC</b><br>
 NUMERIC CALCULATOR
 
-<b>tsEDIT</b>
+<b>tsEDIT</b><br>
 COMPLETE PLAINTEXT-EDITOR
 
-<b>tsIRCD</b>
+<b>tsIRCD</b><br>
 IRC DAEMON
 
-<b>tsKEYGEN</b>
+<b>tsKEYGEN</b><br>
 KEYGEN IN MD5-HASH
 
-<b>tsMIDI</b>
+<b>tsMIDI</b><br>
 PLAY MIDI FILES
 
-<b>tsNFO</b>
+<b>tsNFO</b><br>
 SIMPLE NFO-EDITOR
