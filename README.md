@@ -1,6 +1,6 @@
-# VB6-samples *WORKING*
+# VB6-samples
 
-<b>VISUAL BASIC 6.0 - SAMPLES</b>
+<b>VISUAL BASIC 6.0 - SAMPLES *WORKING*</b>
 
 <b>tsCALC</b>
 NUMERIC CALCULATOR
