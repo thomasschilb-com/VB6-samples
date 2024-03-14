@@ -17,8 +17,8 @@ IRC DAEMON
 <b>tsKEYGEN</b><br>
 KEYGEN IN MD5-HASH
 
-<b>tsMIDI</b><br>
-PLAY MIDI FILES
+<b>tsMID</b><br>
+A SIMPLE MIDI-PLAYER
 
 <b>tsNFO</b><br>
 SIMPLE NFO-EDITOR
